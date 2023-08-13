@@ -21,3 +21,22 @@ Step 1: Acquire
 -   Define the null and alternative hypothesis
 -   Develop a flowchart to support the approach
 -   Pseudocode
+
+Step 2: Prepare
+
+-   Perform exploratory data analysis
+-   Preprocess data as needed
+-   Gain an understanding of the data
+-   Manipulate data into a state for algorithms
+
+## Micro-Project 2
+
+Step 3: Analyze and Visualize
+
+-   Implement algorithms (Naive Bayes and Logistic Regression)
+-   Create supporting visualizations
+-   Determine coefficient weights and other meaningful influencers to the outcome
+
+Step 4: Report
+
+-   Report results
