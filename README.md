@@ -40,3 +40,18 @@ Step 3: Analyze and Visualize
 Step 4: Report
 
 -   Report results
+
+## Micro-Project 3
+
+Step 3 (Revisited):
+
+-   Implement additional algorithms for classification and compare models
+-   Check feature importance of the entire dataset
+
+Step 4 (Revisited):
+
+-   Update results section reflective of new models
+
+Step 5: Act
+
+-   Discussion on how results and the analysis are relevant to the data and mycology fields
