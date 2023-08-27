@@ -55,3 +55,34 @@ Step 4 (Revisited):
 Step 5: Act
 
 -   Discussion on how results and the analysis are relevant to the data and mycology fields
+
+
+## Micro-Project 4
+
+In this phase, we delve into the implementation of a neural network for mushroom classification using TensorFlow and Keras. The primary objective is to enhance predictive accuracy and explore advanced techniques. The neural network architecture incorporates multiple hidden layers with dropout regularization to prevent overfitting. Here's an overview of the key steps undertaken:
+
+### Acquire and Prepare Data
+
+- Imported the mushroom dataset.
+- Encoded categorical variables using one-hot encoding and label encoding.
+- Split the data into training and testing sets.
+
+### Building the Neural Network
+
+- Designed a neural network model using Keras' Sequential API.
+- Leveraged ReLU activation for hidden layers and sigmoid activation for the output layer.
+- Incorporated dropout layers to improve generalization.
+
+### Model Compilation and Training
+
+- Compiled the model using the Adam optimizer and binary cross-entropy loss.
+- Trained the model on the training data and validated its performance using a validation split.
+
+### Evaluation and Visualizations
+
+- Evaluated the model's performance on the test dataset.
+- Achieved a test loss of 0.0209 and a test accuracy of 99.57%.
+
+The implementation of this neural network marks the culmination of our micro-project. It underscores the potential of deep learning techniques in significantly enhancing the accuracy of mushroom classification. By integrating dropout regularization, the model effectively mitigates overfitting, showcasing its robustness in generalizing to new, unseen data.
+
+The remarkable test accuracy of 99.57% underscores the success of our model in effectively distinguishing between edible and poisonous mushrooms.
